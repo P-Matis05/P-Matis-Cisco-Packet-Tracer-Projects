@@ -59,15 +59,17 @@ This repository focuses on practical networking, infrastructure, troubleshooting
 # Repository Structure
 
 ```text
-01. Fundamentals-and-Network-Basics
-02. IOS-and-Switch-Configuration
-03. Connectivity-and-Testing
-04. VLANs-and-InterVLAN-Routing
-05. Routing-and-OSPF
-06. ACLs-and-Network-Security
-07. NAT-and-DHCP
-08. Subnetting-and-IP-Addressing
-09. Wireless-Networking
-10. Troubleshooting-and-Skills-Challenges
-11. WAN-Networking
-12. Archive
+02. 2025 Projects
+01. 2026 Projects
+  01. Fundamentals-and-Network-Basics
+  02. IOS-and-Switch-Configuration
+  03. Connectivity-and-Testing
+  04. VLANs-and-InterVLAN-Routing
+  05. Routing-and-OSPF
+  06. ACLs-and-Network-Security
+  07. NAT-and-DHCP
+  08. Subnetting-and-IP-Addressing
+  09. Wireless-Networking
+  10. Troubleshooting-and-Skills-Challenges
+  11. WAN-Networking
+  12. Archive
