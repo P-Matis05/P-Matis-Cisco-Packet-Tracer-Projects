@@ -58,9 +58,12 @@ This repository focuses on practical networking, infrastructure, troubleshooting
 
 # Repository Structure
 
-```text
-02. 2025 Projects
+
 01. 2026 Projects
+
+
+02. 2025 Projects
+```text
   01. Fundamentals-and-Network-Basics
   02. IOS-and-Switch-Configuration
   03. Connectivity-and-Testing
