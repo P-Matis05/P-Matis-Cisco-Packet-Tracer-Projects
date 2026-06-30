@@ -2,7 +2,7 @@
 
 Collection of Cisco Packet Tracer networking labs and enterprise network simulations completed through Cisco Networking Academy learning.
 
-This repository focuses on practical networking, infrastructure, troubleshooting, and network security concepts relevant to enterprise environments and cyber security pathways such as SOC, Blue Team, and infrastructure security.
+This repository focuses on practical networking, infrastructure, troubleshooting, and network security concepts relevant to enterprise environments and cyber security and networking pathways.
 
 ---
 
